@@ -54,10 +54,10 @@ $active_record = TRUE;
 // $db['default']['password'] = 'root';
 // $db['default']['database'] = '8wine';
 
-$db['default']['hostname'] = 'qdm15618741.my3w.com';
-$db['default']['username'] = 'qdm15618741';
+$db['default']['hostname'] = 'sdm163501229.my3w.com';
+$db['default']['username'] = 'sdm163501229';
 $db['default']['password'] = 'osw13790019668';
-$db['default']['database'] = 'qdm15618741_db';
+$db['default']['database'] = 'sdm163501229_db';
 
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
