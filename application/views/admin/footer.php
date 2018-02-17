@@ -1,6 +1,6 @@
 <!-- BEGIN FOOTER -->
 <div class="footer">
-    <div class="footer-inner">Copyright © 2012-2015 红酒室 | 技术支持及维护：<a href="http://osw.cc" target="_blank">开源网络</a></div>
+    <div class="footer-inner">Copyright © 2016-2018 咖纳咖啡 | 技术支持及维护：<a href="https://gdky.net" target="_blank">开源网络</a></div>
     <div class="footer-tools">
         <span class="go-top">
         <i class="icon-angle-up"></i>
