@@ -12,10 +12,10 @@
         <span class="selected"></span>
     </a>
 </li>
-<li>
+<!-- <li>
     <a id="order_view" class="ajaxify" href="<?php echo site_url('admin/order')?>">
         <i class="icon-table"></i> 
         <span class="title">订单管理</span>
         <span class="selected"></span>
     </a>
-</li>
+</li> -->

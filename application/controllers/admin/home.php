@@ -9,7 +9,7 @@ class Home extends CI_Controller {
 
 	public function index()
 	{
-        $data['title'] = '红酒erp管理系统';
+        $data['title'] = 'ERP管理系统';
         $this->load->view('admin/head', $data);
         $this->load->view('admin/home');
 	}
