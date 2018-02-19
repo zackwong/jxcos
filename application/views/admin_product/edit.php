@@ -16,7 +16,7 @@
                     <div class="col-md-4">
                         <div class="input-group">
                             <input class="form-control" type='text' name="price" value='<?php echo $row['price']?>' datatype="price" nullmsg="请输入价格！"/>
-                            <span class="input-group-addon">元/支</span>
+                            <span class="input-group-addon">元/包</span>
                         </div>
                     </div>
                 </div>

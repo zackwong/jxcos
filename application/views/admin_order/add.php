@@ -14,7 +14,7 @@
                                     <div class="row">                                    
                                         <div class="input-group col-md-7">
                                             <input type="text" placeholder="数量" datatype="n" name="qty[]" class="form-control qty" value="1" ajaxurl="<?php echo site_url('admin/product/stock_check/'.$item['id']) ?>" />
-                                            <span class="input-group-addon"> <span class="text-danger"><?php echo $item['price'] ?></span>  元/支</span>
+                                            <span class="input-group-addon"> <span class="text-danger"><?php echo $item['price'] ?></span>  元/包</span>
                                             <input type="hidden" name="pid[]" value="<?php echo $item['id'] ?>" />
                                             <input class="price" type="hidden" name="price[]" value="<?php echo $item['price'] ?>" />
                                             <input class="" type="hidden" name="pname[]" value="<?php echo $item['name'] ?>" />
