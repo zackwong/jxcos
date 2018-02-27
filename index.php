@@ -58,7 +58,7 @@ if (defined('ENVIRONMENT'))
  * as this file.
  *
  */
-	$system_path = '/home/syu3369730001/myfolder/ganaxitong';
+	$system_path = '/home/qxu1192500228/myfolder/ganaxitong';
 
 /*
  *---------------------------------------------------------------
@@ -74,7 +74,7 @@ if (defined('ENVIRONMENT'))
  * NO TRAILING SLASH!
  *
  */
-	$application_folder = '/home/syu3369730001/myfolder/ganayingyong';
+	$application_folder = '/home/qxu1192500228/myfolder/ganayingyong';
 
 /*
  * --------------------------------------------------------------------

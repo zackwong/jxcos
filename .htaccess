@@ -5,7 +5,7 @@ RewriteCond $1 !^(index\.php|images|robots\.txt)
 RewriteRule ^(.*)$ /index.php?/$1 [L]
 RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization},L]
 
-AuthUserFile /home/syu3369730001/myfolder/.htpasswd
+AuthUserFile /home/qxu1192500228/myfolder/.htpasswd
 AuthName EnterPassword
 AuthType Basic
 require valid-user
