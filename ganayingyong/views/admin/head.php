@@ -5,6 +5,8 @@
 <title><?=$title?></title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta name="MobileOptimized" content="320">
+<link rel="apple-touch-icon" href="http://www.coffeegana.com/images/assets/gana-icon.jpg">
+<meta name="apple-mobile-web-app-title" content="咖纳ERP">
 <!-- BEGIN GLOBAL MANDATORY STYLES -->          
 <link href="<?=base_url()?>assets/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
 <link href="<?=base_url()?>assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
