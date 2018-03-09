@@ -44,7 +44,7 @@
                                 <td><?=$row['type'] == 1 ? $row['total_price'] : ""?></td>
                                 <td><?=$operators[$row['biller']]?></td>
                                 <td><?= trans_date_format($row['datetime'], "Y-m-d H:i")?></td>
-                                <td><button class="btn yellow" onclick='paid(<?=$row['id']?>, <?=$row['is_paid'] ? 0 : 1 ?>)'> <?=$row['is_paid'] ? '已支付' : '未支付' ?></button></td>
+                                <td><button class="btn yellow" onclick='paid(<?=$row['id']?>, <?=$row['is_paid'] ? 0 : 1 ?>)'> <?=$row['is_paid'] ? '已发货' : '未发货' ?></button></td>
                                 <td><?=$row['remarks']?></td>
                                 <td>
                                     <button class="btn blue" onclick="LoadPageContentBody('<?=site_url($controller_url."detail/".$row['id'])?>')"><i class="icon-list icon-white"></i> 明细</button>
