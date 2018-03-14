@@ -6,7 +6,7 @@ $config['operators'][3] = "洪杨辉";
 $config['operators'][4] = "江燕华";
 $config['operators'][5] = "伍凤欣";
 $config['operators'][6] = "梁爱森";
-$config['operators'][7] = "伍凤欣";
+$config['operators'][7] = "钟洁华";
 $config['operators'][8] = "卢焯君";
 
 $config['order_type'][1] = '销售';
